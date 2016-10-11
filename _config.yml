@@ -1,6 +1,6 @@
 # Site settings
-title: DentistSmile | Dental Jekyll Theme
-description: "A responsive Jekyll theme for dental clinics."
+title: IQDent | Tratamente dentare inteligente.
+description: Implant dentar 250 de euro. Oferte implant dentar dr Irina Alexandru.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: www.dririnaalexandru.ro # the name of your domain
 logo_url: svg/min/logo.svg
@@ -8,23 +8,21 @@ logo_url: svg/min/logo.svg
 # Hero
 hero: 
     hero_img: hero.jpg
-    hero_title: DentistSmile
-    hero_description: A responsive Jekyll theme for dental clinics.
+    hero_title: IQDent
+    hero_description: Tratamente dentare inteligente.
 
 # Contact form
 api_token: # Enter API token here
 
 # Contact info
 contact:
-    phone: 932 50 540
-    emergency: 931 53 234
-    email: contact@yoursite.com
-    address: Von schroeders 273, <br> Viña del mar - Chile
+    phone: 0766 748971
+    email: alexandru.irina@gmail.com
+    address: Bdul Octavian Goga Nr 21, Sector 3, Bucuresti
 
 # Opening hours
 monday_friday: 9:00 – 18:00
-saturday: 10:00 – 17:00
-sunday: 10:00 – 15:00
+saturday: 09:00 – 13:00
 
 # Testimonials
 testimonials:
@@ -37,15 +35,13 @@ map:
     address_details: svg/min/logo.svg
 
 # Social settings
-facebook: http://facebook.com
+facebook: https://facebook.com/dririnaalexandru
 twitter: http://twitter.com
 instagram: http://instagram.com
-youtube: http://youtube.com
-skype: skype:obaez_design?userinfo
 feed: yes
 
 # Footer
-copyright: © 2015 DentistSmile - All rights reserved
+copyright: © 2015 IQDent - All rights reserved
 
 # Build settings
 markdown: kramdown
