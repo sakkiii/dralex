@@ -5,6 +5,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: www.dririnaalexandru.ro # the name of your domain
 logo_url: svg/min/logo.svg
 
+
+name: IQDent
+
 # Hero
 hero: 
     hero_img: hero.jpg
