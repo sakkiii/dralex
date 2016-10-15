@@ -140,14 +140,16 @@ layout: default
                     <div class="testimonial-item">
                         <svg class="icon icon-quote-left"><use xlink:href="#icon-quote-left"></use></svg>
                         <blockquote>
-                            <p>{{ testimonial.description }} <a href="{{ testimonial.link}}">&hellip;</a></p>
+                            <p>{{ testimonial.description }} <a href="{{ testimonial.link}}" style="color:black">&hellip;</a></p>
                             <footer>
                                 {{ testimonial.name }}
-                                <small>Citeste mai multe marturii pe pagina de <a href="{{ site.facebook}}/reviews" style="color:white">Facebook</a></small>
                             </footer>
                         </blockquote>
                     </div>
                 {% endfor %}
+            </div>
+            <div>
+                 <small>Citeste mai multe marturii pe pagina de <a href="{{ site.facebook}}/reviews" style="color:black">Facebook</a></small>
             </div>
         </div>
     </div>
