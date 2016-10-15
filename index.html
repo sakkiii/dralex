@@ -140,10 +140,10 @@ layout: default
                     <div class="testimonial-item">
                         <svg class="icon icon-quote-left"><use xlink:href="#icon-quote-left"></use></svg>
                         <blockquote>
-                            <p>{{ testimonial.description }}</p>
+                            <p>{{ testimonial.description }} <a href="{{ testimonial.link}}">&hellip;</a></p>
                             <footer>
                                 {{ testimonial.name }}
-                                <small>{{ testimonial.title }}</small>
+                                <small>citeste tot review-ul aici {{ testimonial.link }}</small>
                             </footer>
                         </blockquote>
                     </div>
