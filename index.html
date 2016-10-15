@@ -82,12 +82,12 @@ layout: default
 <!-- Start About -->
 <div id="about" class="about">
     <div class="container-fluid">
-        <h2 class="section-title">About Us</h2>
+        <h2 class="section-title">Despre noi</h2>
 
         <div class="row">
             <div class="col-sm-6">
-                <h3>Welcome to DentistSmile</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis nostrum ab vero temporibus magnam, delectus!</p>
+                <h3>Bun venit la {{site.name}}</h3>
+                <p>Cabinetul stomatologic {{site.name}} vă oferă tratamente dentare la cele mai înalte standarde.</p>
 
                 <div class="media">
                     <div class="media-left">
@@ -96,7 +96,7 @@ layout: default
                         </div>
                     </div>
                     <div class="media-body">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam explicabo unde doloremque quo, fugit, nisi.</p>
+                        <p>Blandete! Inainte de toate pacientii trebuie sa se simta confortabil si sa uite de frica de dentist.</p>
                     </div>
                 </div>
 
@@ -107,7 +107,7 @@ layout: default
                         </div>
                     </div>
                     <div class="media-body">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam explicabo unde doloremque quo, fugit, nisi.</p>
+                        <p>Inteligenta! Va vom propune cele mai adecvate tratamente stomatologice, la cele mai bunte preturi.</p>
                     </div>
                 </div>
 
@@ -118,7 +118,7 @@ layout: default
                         </div>
                     </div>
                     <div class="media-body">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam explicabo unde doloremque quo, fugit, nisi.</p>
+                        <p>Excelenta! Echipa noastra este formata din profesioniste care se perfectioneaza continuu.</p>
                     </div>
                 </div>
             </div>
@@ -133,7 +133,7 @@ layout: default
 <!-- Start Treatments -->
 <div id="treatments" class="treatments">
     <div class="container-fluid">
-        <h2 class="section-title">Treatments</h2>
+        <h2 class="section-title">Tratamente</h2>
 
         <div class="row">
             {% for treatment in site.data.treatments %}
@@ -152,7 +152,7 @@ layout: default
 
 <!-- Start Our team -->
 <div id="team" class="team"> 
-    <h2 class="section-title">Our Team</h2> 
+    <h2 class="section-title">Echipa noastra</h2> 
     <div id="team-carousel">
     {% for member in site.data.team %}
         <div class="expandable-box">
@@ -199,7 +199,7 @@ layout: default
 <!-- Start Gallery -->
 <div id="gallery" class="gallery">
         
-    <h2 class="section-title">Gallery</h2>
+    <h2 class="section-title">Imagini cabinet</h2>
 
     {% for images in site.data.gallery %}
         <a href="{{ site.baseurl }}/img/gallery/large/{{ images.image_large }}" class="gallery-item expandable-box image-link">
