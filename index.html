@@ -167,6 +167,7 @@ layout: default
 <div id="treatments" class="treatments">
     <div class="container-fluid">
         <h2 class="section-title">Tratamente</h2>
+        <h3>{{contact.address}}</h3>
 
         <div class="row">
             {% for treatment in site.data.treatments %}
@@ -229,5 +230,10 @@ layout: default
 <!-- End Gallery -->
 
 <!-- Start Map -->
-<div id="location" class="map" data-zoom="{{ site.map.zoom }}" data-address="{{ site.map.address }}" data-address-details="<img src='{{ site.map.address_details }}'>"></div>
+<div id="location">
+    <h2 class="section-title">Adresa</h2>
+
+    <div class="map" data-zoom="{{ site.map.zoom }}" data-address="{{ site.map.address }}" data-address-details="<img src='{{ site.map.address_details }}'>"></div>
+</div>
+
 <!-- End Map -->
