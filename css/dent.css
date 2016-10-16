@@ -5,6 +5,8 @@
     float: left;
     margin: 10px auto 5px 20px;
     width: 28%;
+    display: none;
+
   }
     
   .nodisplay-mobile {
@@ -18,7 +20,7 @@
     
   .hero-back {
         background: url('/img/hero-small.jpg') no-repeat; 
-        background-size: 800px 512px;
+        background-size: 700px 448px;
   }
 }
 
