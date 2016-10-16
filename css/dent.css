@@ -1,11 +1,12 @@
 @media screen and (max-width: 800px) {
-  .hide-mobile {
+  .form {
     visibility: hidden;
     clear: both;
     float: left;
     margin: 10px auto 5px 20px;
     width: 28%;
     display: none;
+    min-height: 400px;
 
   }
     
@@ -32,4 +33,4 @@ a[href^=tel] {
 .hero-back {
         background: url('/img/hero.jpg') no-repeat; 
         background-size: cover;
-  }
+}
