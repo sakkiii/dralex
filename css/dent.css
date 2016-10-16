@@ -18,7 +18,7 @@
     
   .hero-back {
         background: url('/img/hero-small.jpg') no-repeat; 
-        background-size: cover;
+        background-size: 800px 512px;
   }
 }
 
