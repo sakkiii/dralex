@@ -9,6 +9,17 @@
   }
 }
 
+@media screen and (min-width: 800px) {
+  .hide-big {
+    visibility: hidden;
+    clear: both;
+    float: left;
+    margin: 10px auto 5px 20px;
+    width: 28%;
+    display: none;
+  }
+}
+
 a[href^=tel] {
     color: inherit;
     text-decoration: none;
