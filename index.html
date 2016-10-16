@@ -231,8 +231,10 @@ layout: default
 <!-- Start Map -->
 <div id="location">
     <h2 class="section-title">Adresa</h2>
-    
-    <h3>{{site.contact.address}}</h3>
+    <div class="container-fluid">
+            <h3>{{site.contact.address}}</h3>    
+    </div>
+
 
 
     <div class="map" data-zoom="{{ site.map.zoom }}" data-address="{{ site.map.address }}" data-address-details="<img src='{{ site.map.address_details }}'>"></div>
