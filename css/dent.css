@@ -5,22 +5,7 @@
     float: left;
     margin: 10px auto 5px 20px;
     width: 28%;
-    max-height: 400px;
-
-  }
-    
-  .nodisplay-mobile {
-    visibility: hidden;
-    clear: both;
-    float: left;
-    margin: 10px auto 5px 20px;
-    width: 28%;
-    display: none;
-  }
-    
-  .hero-back {
-        background: url('/img/hero-small.jpg') no-repeat; 
-        background-size: 700px 448px;
+    height: 400px;
   }
 }
 
