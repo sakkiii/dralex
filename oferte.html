@@ -81,7 +81,7 @@ layout: default
 
 
 <!-- Start About -->
-<div id="about" class="about">
+<div id="oabout" class="about">
     <div class="container-fluid">
         <h2 class="section-title">Oferta implant dentar 250 euro</h2>
         
@@ -166,6 +166,22 @@ layout: default
     </div>
 </div>
 <!-- End About -->
+
+<!-- Start Map -->
+<div id="olocation">
+    <h2 class="section-title">Adresa</h2>
+    <div class="container-fluid">
+        <div class="col-md-6 col-md-offset-3 text-center">
+            <h3>{{site.contact.address}}</h3>    
+        </div>
+    </div>
+
+
+
+    <div class="map" data-zoom="{{ site.map.zoom }}" data-address="{{ site.map.address }}" data-address-details="<img src='{{ site.map.address_details }}'>"></div>
+</div>
+
+<!-- End Map -->
     
     
     
