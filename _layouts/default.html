@@ -1,10 +1,15 @@
 {% include doctype-head.html %}
-<body data-spy="scroll" data-offset="80" data-target=".scrollspy" id="top">
+
+<body data-spy="scroll" data-offset="80" data-target=".scrollspy">
     {% include svg-defs.svg %}
     <!--[if lt IE 10]>
         <p class="oldie">You are using an outdated browser. <a href="http://browsehappy.com/">Upgrade your browser today</a> to better experience this site.</p>
     <![endif]-->
 
+    {% if page.main %}
+    <div style="display:none;" id="top"></div>
+    {% endif %}
+    
     {% include header.html %}
  
         {{ content }}
