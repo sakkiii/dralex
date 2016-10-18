@@ -4,58 +4,8 @@ noindex: true
 ---
 
 <!-- Start Hero -->
-<div class="hero hero-back hide-small">
-    <div class="hero-content">
-        <div class="container-fluid">
-            <div class="hero-content-inner">
-                <h1>Oferta Implant Dentar 250 euro</h1>
-                <p> 
-                    <strong>Dr. Irina Alexandru</strong> 
-                    <br/>
-                    <a href="tel:{{ site.contact.phone }}"><svg class="icon icon-phone"><use xlink:href="#icon-phone"></use></svg></a><strong><a href="tel:{{site.contact.phone}}">{{site.contact.phone}}</a></strong>
-                </p>
-            </div>
-        </div>
-    </div>
 
-    <div class="container-fluid">
-        
-        <div class="col-sm-6 col-sm-offset-6 col-md-4 col-md-offset-8 form">
-            <h3><svg class="icon icon-envelope-o"><use xlink:href="#icon-envelope-o"></use></svg>Contactati-ne</h3>
-            <form action="https://getsimpleform.com/messages?form_api_token={{ site.api_token }}" method="post">
-                <div class="form-field">
-                    <input name="name" type="text" placeholder="Nume" required>
-                </div>
-                <div class="form-field">
-                    <input name="phone" type="tel" placeholder="Telefon" required>
-                </div>
-                <div class="form-field">
-                    <input name="email" type="email" placeholder="Email" required>
-                </div>
-                <div class="form-field">
-                    <textarea name="comments" placeholder="Mesaj" required></textarea>
-                </div>
-                <input type="submit" class="btn btn-default" value="Trimite">
-            </form>
-        </div>
-    </div>
-    
-
-</div>
-
-<div class="hero hide-big">
-        
-    <div class="container-fluid">
-        <img src="/img/hero-small.jpg" class="img-responsive"/>   
-        <h3 class="text-center">
-            <strong>Dr. Irina Alexandru</strong> 
-            <br/>
-            <a href="tel:{{ site.contact.phone }}"><svg class="icon icon-phone"><use xlink:href="#icon-phone"></use></svg></a><strong><a href="tel:{{site.contact.phone}}">{{site.contact.phone}}</a></strong>
-        </h3>
-
-    </div>
-</div>
-
+{% include hero.html %}
 
 <!-- End Hero -->
 
