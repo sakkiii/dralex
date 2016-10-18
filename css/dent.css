@@ -33,3 +33,14 @@ a[href^=tel] {
         background: url('/img/hero.jpg') no-repeat; 
         background-size: cover;
 }
+
+table#pricesTable th {
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+
+table#pricesTable del {
+    color: red;
+    margin-left: 30px;
+}
