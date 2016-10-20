@@ -8,13 +8,17 @@
     
     
     {% if page.noindex %}
-        <meta name="robots" content="noindex">   
+    <meta name="robots" content="noindex">   
     {% else %}
-        <meta name="robots" content="index, follow">
+    <meta name="robots" content="index, follow">
     {% endif %}
 
-    
+    {% if page.title %}    
+    <title>{{ page.title }}</title>
+    {% else %}
     <title>{{ site.title }}</title>
+    {% endif %}
+    
     <meta name="description" content="{{ site.description }}">
     <link rel="alternate" type="application/rss+xml" href="{{ site.url }}/feed.xml">
 
