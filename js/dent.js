@@ -6,5 +6,6 @@ $(function() {
         }
          
         ga('send', 'pageview', href);
+        clicky.log(href, "Click");
     });
 })
