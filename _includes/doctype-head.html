@@ -12,6 +12,7 @@
     {% else %}
     <meta name="robots" content="index, follow">
     {% endif %}
+    
 
     {% if page.title %}    
     <title>{{ page.title }}</title>
@@ -21,6 +22,9 @@
     
     <meta name="description" content="{{ site.description }}">
     <link rel="alternate" type="application/rss+xml" href="{{ site.url }}/feed.xml">
+    
+    <meta property="fb:admins" content="100007375457037" />
+    <meta property="fb:app_id" content="1167837603301313" />
 
     <!-- Stylesheet -->
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
