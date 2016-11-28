@@ -17,7 +17,7 @@ title: Oferta implant dentar pret 250 de euro. Bont protetic inclus, consultatie
         
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 text-center">
-                <img class="img-responsive" src="img/implant250.jpg" alt="Implant dentar pret 250 euro">
+                <img class="img-responsive" src="/img/implant250.jpg" alt="Implant dentar pret 250 euro">
             </div>
             <br/><br/>
         </div>
