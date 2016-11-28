@@ -20,7 +20,13 @@
     <title>{{ site.title }}</title>
     {% endif %}
     
-    <meta name="description" content="{{ site.description }}">
+    
+    {% if page.description %}    
+    <meta name="description" content="{{ page.description }}">
+    {% else %}
+    <meta name="description" content="{{ page.description }}">
+    {% endif %}
+    
     <link rel="alternate" type="application/rss+xml" href="{{ site.url }}/feed.xml">
     
     <meta property="fb:admins" content="100007375457037" />
