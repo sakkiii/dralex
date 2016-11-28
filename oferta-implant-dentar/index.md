@@ -59,7 +59,7 @@ title: Oferta implant dentar pret 250 de euro. Bont protetic inclus, consultatie
         
         <div class="row">
                 <div class="col-lg-12 text-center">
-                   <div class="fb-comments" data-href="http://www.dririnaalexandru.ro/oferta-implant-dentar/" data-numposts="15" data-colorscheme="light" data-order-by="reverse_time"></div>   
+                   <div class="fb-comments" data-href="https://www.dririnaalexandru.ro/oferta-implant-dentar/" data-numposts="15" data-colorscheme="light" data-order-by="reverse_time"></div>   
                 </div>
 
         </div>
