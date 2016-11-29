@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Oferta implant dentar pret 250 de euro. Bont protetic inclus, consultatie gratuita.
-description: Implant dentar ieftin Bucuresti, Dr. Irina Alexandru. Pret accesibil pentru implanturi dentare de calitate.
+description: Implant dentar ieftin Bucuresti, Dr. Irina Alexandru. Pret accesibil pentru implanturi dentare de calitate. Fara costuri ascunse, bontul protetic, consultatia sunt incluse in pret. 
 ---
 
 <!-- Start Hero -->
