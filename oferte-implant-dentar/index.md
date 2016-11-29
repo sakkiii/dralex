@@ -29,6 +29,10 @@ description: Implant dentar ieftin Bucuresti, Dr. Irina Alexandru. Pret accesibi
             <div class="col-sm-6">
                 <h3>Oferta implant dentar</h3>
                 <p>Sunt medic dentist cu experiență de peste 10 ani (dintre care 2 ani în Marea Britanie). Sunt printre primii dentisti din Bucuresti care au inceput sa promoveze tratamentul cu implanturi dentare de calitate la preturi accesibile. Am realizat ca reducand pretul manoperei voi reusi sa ofer acest tratament optim unui numar mai mare de pacienti. Acest lucru a fost apreciat imediat de pacienti deoarece alegand implantul dentar se evita clasica "pilire" a dintilor pentru realizarea unei punti dentare. Marturiile acestora le puteti citi si pe pagina de Facebook <a href="{{site.facebook}}/reviews" target="_blank">Dr Irina Alexandru</a></p>
+                
+                <p>Pentru a incepe tratamentul cu implanturi dentare trebuie mai intai sa va programati pentru o consultatie. Daca aveti deja o radiografie dentara mi-o puteti trimite pe email pentru a va analiza cazul in prealabil. Daca locuiti in strainatate este bine sa luati legatura din timp pentru a stabili cat mai exact planul de tratament si timpul necesar pentru indeplinirea acestuia.</p>
+                
+                <p>Ma puteti contacta telefonic <a href="tel:{{ site.contact.phone }}" style="color:#3dadb2"><svg class="icon icon-phone"><use xlink:href="#icon-phone"></use></svg></a><strong><a href="tel:{{site.contact.phone}}" style="color:#3dadb2">{{site.contact.phone}}</a></strong> sau pe <strong><a href="{{ site.facebook }}" target="_blank">Facebook</a></strong></p>
 
             </div>
             <div class="col-sm-6">
@@ -54,7 +58,27 @@ description: Implant dentar ieftin Bucuresti, Dr. Irina Alexandru. Pret accesibi
                     </div>
                 </div>
                 
-                 <p>Ma puteti contacta telefonic <a href="tel:{{ site.contact.phone }}" style="color:#3dadb2"><svg class="icon icon-phone"><use xlink:href="#icon-phone"></use></svg></a><strong><a href="tel:{{site.contact.phone}}" style="color:#3dadb2">{{site.contact.phone}}</a></strong> sau pe <strong><a href="{{ site.facebook }}" target="_blank">Facebook</a></strong></p>
+                <div class="media">
+                    <div class="media-left">
+                        <div class="boxed-icon">
+                            <svg class="icon icon-star"><use xlink:href="#icon-star"></use></svg>
+                        </div>
+                    </div>
+                    <div class="media-body">
+                        <p>Ce tipuri de implanturi folosim? - In cadrul ofertei folosim implanturi dentare Alpha Bio. Aceste implanturi sunt folosite în majoritatea cabinetelor din București, la un preț de multe ori dublu.</p>
+                    </div>
+                </div>
+                
+                <div class="media">
+                    <div class="media-left">
+                        <div class="boxed-icon">
+                            <svg class="icon icon-medkit"><use xlink:href="#icon-medkit"></use></svg>
+                        </div>
+                    </div>
+                    <div class="media-body">
+                        <p>Este dureroasa interventia? - Interventia se realizeaza sub anestezie locala si este nedureroasa. Operatia este chiar mai usoara decat extractia unui dinte deoarece in cazul implanturilor dentare forma acestora este predictibila.</p>
+                    </div>
+                </div>
             </div>
         </div>
         
