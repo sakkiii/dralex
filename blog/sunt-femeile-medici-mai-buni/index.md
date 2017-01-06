@@ -37,6 +37,13 @@ description: Un articol recent sustine ca medicii de sex feminin ofera o mai bun
             "Istoria a aratat ca medicii de sex feminin sunt mai predispuse sa urmeze mai strici procedurile clinice, ofera servicii preventive mai des, comunica mai direct cu pacientul, efecuteaza la fel de bine sau mai bine la examene standardizate, si ofera de consiliere psiho-sociala pacientilor mai mult decat colegii de sex masculin."
             </p>
         </div>
+        
+        <div class="row">
+                <div class="col-lg-12 text-center">
+                  {% include comments.html %}
+                </div>
+
+        </div>
     </div>  
 </div>
         
