@@ -5,6 +5,13 @@ description: Un articol recent sustine ca medicii de sex feminin ofera o mai bun
 ---
 
 
+<!-- Start Hero -->
+
+{% include hero.html %}
+
+<!-- End Hero -->
+
+
 <!-- Start About -->
 <div>
     <div class="container-fluid">
