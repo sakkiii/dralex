@@ -13,7 +13,7 @@ description: Un articol recent sustine ca medicii de sex feminin ofera o mai bun
 
 
 <!-- Start About -->
-<div>
+<div class="about">
     <div class="container-fluid">
         <h2 class="section-title">Sunt femeile medici mai buni?</h2>
         
