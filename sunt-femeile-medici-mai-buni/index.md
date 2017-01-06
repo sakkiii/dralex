@@ -23,18 +23,18 @@ description: Un articol recent sustine ca medicii de sex feminin ofera o mai bun
             </p>
            
            <p>
-            Cercetarea a analizat patru ani de date si 1,5 milioane de vizite la spital si a gasit pacientii care sunt observate de medici de sex feminin au avut rate de mortalitate și de readmisie semnificativ mai mic.
+            Cercetarea a analizat patru ani de date si 1,5 milioane de vizite la spital si a gasit ca pacientii care sunt tratati de medici de sex feminin au avut rate de mortalitate și de recidiva semnificativ mai mic.
            </p>
 
 
-            <p>Cercetarile sugereaza daca medicii barbati ar efectua tratamentele la fel de bine ca și omologii lor de sex feminin aproximativ 32.000 vieti ar fi salvate.</p>
+            <p>Cercetarile sugereaza ca daca medicii barbati ar efectua tratamentele la fel de bine ca și omologii lor de sex feminin aproximativ 32.000 vieti ar fi salvate.</p>
             
             <p>
-            "Există dovezi că bărbații și femeile pot practica medicina diferit", spune studiul.
+            "Există dovezi că bărbații și femeile practica medicina diferit", spune studiul.
             </p>
             
             <p>
-            "Istoria a aratat ca medicii de sex feminin sunt mai predispuse sa urmeze mai strici procedurile clinice, ofera servicii preventive mai des, comunica mai direct cu pacientul, efecuteaza la fel de bine sau mai bine la examene standardizate, si ofera de consiliere psiho-sociala pacientilor mai mult decat colegii de sex masculin."
+            "Istoria a aratat ca medicii de sex feminin sunt mai predispusi sa urmeze mai strict procedurile clinice, ofera servicii preventive mai des, comunica mai direct cu pacientul, efecuteaza la fel de bine sau mai bine la examene standardizate, si ofera de consiliere psiho-sociala pacientilor mai mult decat colegii de sex masculin."
             </p>
         </div>
         
