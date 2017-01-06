@@ -19,7 +19,7 @@ description: Un articol recent sustine ca medicii de sex feminin ofera o mai bun
         
         <div class="row">
             <p>
-             Un <a href="http://www.independent.co.uk/life-style/health-and-families/health-news/female-doctors-men-male-patient-care-medicine-hospital-research-study-a7505836.html" target="_blank">articol</a> aparut in <a href="http://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2593255" target="_blank">JAMA Internal Medicine journal</a> a concluzionat ca femeile doctor ofera o mai buna ingrijire a pacientilor decat omologii lor de sex masculin.
+             Un articol aparut in <a href="http://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2593255" target="_blank">JAMA Internal Medicine journal</a> a concluzionat ca femeile doctor ofera o mai buna ingrijire a pacientilor decat omologii lor de sex masculin.
             </p>
            
            <p>
@@ -36,6 +36,8 @@ description: Un articol recent sustine ca medicii de sex feminin ofera o mai bun
             <p>
             "Istoria a aratat ca medicii de sex feminin sunt mai predispusi sa urmeze mai strict procedurile clinice, ofera servicii preventive mai des, comunica mai direct cu pacientul, efecuteaza la fel de bine sau mai bine la examene standardizate, si ofera de consiliere psiho-sociala pacientilor mai mult decat colegii de sex masculin."
             </p>
+            
+            <p>Puteti citi mai mult <a href="http://www.independent.co.uk/life-style/health-and-families/health-news/female-doctors-men-male-patient-care-medicine-hospital-research-study-a7505836.html" target="_blank">aici</a></p>
         </div>
         
         <div class="row">
