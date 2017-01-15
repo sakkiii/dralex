@@ -32,7 +32,7 @@ description: Implant dentar ieftin Bucuresti, Dr. Irina Alexandru. Pret accesibi
                 
                 <p>Pentru a incepe tratamentul cu implanturi dentare trebuie mai intai sa va programati pentru o consultatie. Daca aveti deja o radiografie dentara mi-o puteti trimite pe email pentru a va analiza cazul in prealabil. Daca locuiti in strainatate este bine sa luati legatura din timp pentru a stabili cat mai exact planul de tratament si timpul necesar pentru indeplinirea acestuia.</p>
                 
-                <p>Ma puteti contacta telefonic <a href="tel:{{ site.contact.phone }}" style="color:#3dadb2"><svg class="icon icon-phone"><use xlink:href="#icon-phone"></use></svg></a><strong><a href="tel:{{site.contact.phone}}" style="color:#3dadb2">{{site.contact.phone}}</a></strong> sau pe <strong><a href="{{ site.facebook }}" target="_blank">Facebook</a></strong></p>
+                <p>Ma puteti contacta telefonic <a href="tel:{{ site.contact.phone }}" style="color:#3dadb2"><svg class="icon icon-phone"><use xlink:href="#icon-phone"></use></svg></a><strong><a href="tel:{{site.contact.phone}}" style="color:#3dadb2">{{site.contact.phone}}</a></strong> sau pe <strong><a href="{{ site.facebook }}" target="_blank">Facebook</a></strong>.  Mai multe detalii despre oferta <a href="https://www.oferteimplantdentar.ro" >implant dentar</a> puteti gasi si pe site-ul dedicat.</p>
 
             </div>
             <div class="col-sm-6">
