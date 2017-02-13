@@ -18,7 +18,7 @@ description: Pretul include bontul protetic si coroana dentara. Fara costuri asc
         
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 text-center">
-                <img class="img-responsive" src="/img/implant-coroana.jpeg" alt="Implant dentar pret 400 euro">
+                <img class="img-responsive" src="/img/implant-coroana-400.jpg" alt="Implant dentar pret 400 euro">
             </div>
             <br/><br/>
         </div>
