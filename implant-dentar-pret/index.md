@@ -76,7 +76,7 @@ description: Pretul include bontul protetic si coroana dentara. Fara costuri asc
                         </div>
                     </div>
                     <div class="media-body">
-                        <p>Se pot pune mai putine implanturi? - Da, pentru inlocuirea a 3 dinti se pot pune de exemplu 2 implanturi si o lucrare cu 3 coronite. Pretul acestei lucrari ar fi de 950 de euro.</p>
+                        <p>Se pot pune mai putine implanturi decat numarul de dinti? - Da, pentru inlocuirea a 3 dinti se pot pune de exemplu 2 implanturi si o lucrare cu 3 coronite. Pretul acestei lucrari ar fi de 950 de euro.</p>
                     </div>
                 </div>
             </div>
