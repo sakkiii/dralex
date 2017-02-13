@@ -27,7 +27,7 @@ description: Pretul include bontul protetic si coroana dentara. Fara costuri asc
             <br/><br/>
 
             <div class="col-sm-6">
-                <h3>Pretul unui implant dentar</h3>
+                <h3>Pretul implanturilor dentare</h3>
                 <p>Pretul unui tratament cu implanturi dentare nu este mic. Totusi, in ultimii ani, tehnologiile au avansat destul de mult pentru a permite interventii la preturi rezonabile cu implanturi de calitate. Sunt printre primii dentisti din Bucuresti care au inceput sa promoveze tratamentul cu implanturi dentare de calitate la preturi accesibile. Marturiile pacientilor le puteti citi si pe pagina de Facebook <a href="{{site.facebook}}/reviews" target="_blank">Dr Irina Alexandru</a>.</p>
                 
                 <p>In principiu, o reconstructie dentara bazata pe implanturi are doua componente de pret: pretul implanturilor dentare si pretul coronitelor dentare. Unele cabinete factureaza toate etapele tratamentului: consultatia, extractiile, bonturi de vindecare. In cabinetul nostru am ales sa oferim aceste activitati conexe gratuit, asa ca pretul final pentru o lucrare cu implanturi se va calcula doar in functie de numarul de implanturi dentare si numarul de coronite din lucrarile protetice (alte interventii chirugicale precum sinus lifting-ul se platesc separat).</p>
