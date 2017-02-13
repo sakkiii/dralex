@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Implant dentar pret 400 de euro (implant + coronita). Consultatie gratuita.
+title: Implant dentar + Coronita dentara = pret 400 de euro. Consultatie gratuita.
 description: Pretul include bontul protetic si coroana dentara. Fara costuri ascunse, extractiile si consultatia sunt incluse in pret. 
 ---
 
@@ -14,7 +14,7 @@ description: Pretul include bontul protetic si coroana dentara. Fara costuri asc
 <!-- Start About -->
 <div id="oabout" class="about">
     <div class="container-fluid">
-        <h2 class="section-title">Implant dentar pret 400 euro</h2>
+        <h2 class="section-title">Implant dentar + Coronita dentara. Pret 400 euro!</h2>
         
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 text-center">
