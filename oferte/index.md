@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Oferta implant dentar pret 250 de euro. Bont protetic inclus, consultatie gratuita.
-noindex: true
+title: Implant dentar pret 250 de euro. Coroana zirconiu 180 euro.
 ---
 
 <!-- Start Hero -->
@@ -14,53 +13,63 @@ noindex: true
 <!-- Start About -->
 <div id="oabout" class="about">
     <div class="container-fluid">
-        <h2 class="section-title">Oferta implant dentar 250 euro</h2>
+        <h2 class="section-title">Oferte</h2>
         
         <div class="row">
+            <h3>Oferta implant dentar 250 euro</h3>
+
             <div class="col-lg-8 col-lg-offset-2 text-center">
                 <img class="img-responsive" src="/img/implant250.jpg" alt="Implant dentar pret 250 euro">
             </div>
-            <br/><br/>
         </div>
 
         <div class="row">
             <br/><br/>
 
             <div class="col-sm-6">
-                <h3>Oferta implant dentar</h3>
-                <p>Sunt medic dentist cu experiență de peste 10 ani (dintre care 2 ani în Marea Britanie). Sunt printre primii dentisti din Bucuresti care au inceput sa promoveze tratamentul cu implanturi dentare de calitate la preturi accesibile. Am realizat ca reducand pretul manoperei voi reusi sa ofer acest tratament optim unui numar mai mare de pacienti. Acest lucru a fost apreciat imediat de pacienti deoarece alegand implantul dentar se evita clasica "pilire" a dintilor pentru realizarea unei punti dentare. Marturiile acestora le puteti citi si pe pagina de Facebook <a href="{{site.facebook}}/reviews" target="_blank">Dr Irina Alexandru</a></p>
+                
+                <p>Un implant dentar este o rădăcină de dinte artificial, care este plasată în maxilar pentru a ajuta la montarea unei coroane dentare sau a unei punți. Implanturile dentare pot fi o opțiune pentru persoanele care au pierdut un dinte sau mai mulți dinți din cauza bolii parodontale, o accidentare, sau din alte motive.</p>
+                
+                <p>Candidatul ideal pentru un implant dentar trebuie sa fie în stare bună de sănătate orală. Este nevoie de os adecvat în maxilar pentru a sprijini implantul, iar cei mai buni candidați sunt cei care au țesuturile sănătoase si gingii neafectate de boala parodontală.</p>
 
             </div>
             <div class="col-sm-6">
-                 <div class="media">
-                    <div class="media-left">
-                        <div class="boxed-icon">
-                            <svg class="icon icon-heart"><use xlink:href="#icon-heart"></use></svg>
-                        </div>
-                    </div>
-                    <div class="media-body">
-                        <p>Ce este implantul dentar? - Implantul dentar este un surub din titan folosit pentru de a inlocui radacina unuia sau mai multor dinti lipsa. In cadrul ofertei folosim implanturi Alpha Bio.</p>
-                    </div>
-                </div>
-
-                <div class="media">
-                    <div class="media-left">
-                        <div class="boxed-icon">
-                            <svg class="icon icon-medkit"><use xlink:href="#icon-medkit"></use></svg>
-                        </div>
-                    </div>
-                    <div class="media-body">
-                        <p>Cat dureaza interventia? - Plasarea implantului dentar se efectueaza intr-o singura sedinta de aproximativ o ora. Procesul de osteointegrare dureaza in general 3 luni. Dupa 3 luni se pot finaliza si lucrarile dentare pe implant, tratament care dureaza in medie inca 10 zile.</p>
-                    </div>
-                </div>
+                <p>Înlocuirea unui singur dinte: Dacă lipsește un singur dinte, un implant și o coroană îl pot înlocui.</p>
                 
-                 <p>Ma puteti contacta telefonic <a href="tel:{{ site.contact.phone }}" style="color:#3dadb2"><svg class="icon icon-phone"><use xlink:href="#icon-phone"></use></svg></a><strong><a href="tel:{{site.contact.phone}}" style="color:#3dadb2">{{site.contact.phone}}</a></strong> sau pe <strong><a href="{{ site.facebook }}" target="_blank">Facebook</a></strong></p>
+                <p>Înlocuirea mai multor dinți: Dacă lipsesc mai mulți dinți, o punte sprijinită de implanturi îi pot înlocui.</p>
+                
+                <p>Înlocuirea tuturor dinților: Dacă lipsesc toți dinții, o punte intreagă susținută de implanturi sau proteză completă îi pot înlocui.</p>
             </div>
+                 
+        </div>
+        
+        <div class="row">
+            <h3>Oferta coroana zirconiu 150 euro (180 pe implant)</h3>
+
+            <div class="col-lg-8 col-lg-offset-2 text-center">
+                <img class="img-responsive" src="/img/zirconiu-650.jpeg" alt="Coroana zirconiu pe implant">
+            </div>
+        </div>
+
+        <div class="row">
+            <br/><br/>
+
+            <div class="col-sm-6">
+                
+                <p>Zirconiul devine rapid materialul de preferat pentru coroane dentare. Este un material foarte puternic capabil să reziste la uzura utilizării zilnice. Din punct de vedere estetic, este translucid foarte similar cu un dinte natural și reflectă lumina în același fel.</p>
+                
+                <p>Efectul estetic al zirconiului este important pentru coroanele montate în partea din față a gurii și pentru a face diferența față de dinții naturali insesizabilă.</p>
+
+            </div>
+            <div class="col-sm-6">
+                <p>In cadrul ofertei pretul este de 650 RON pentru coroanele montate pe dinti existenti (redus de la 1000 RON) sau 800 RON pentru coroanele montate pe implanturi (redus de la 1200 RON).</p>
+            </div>
+                 
         </div>
         
         <div class="row">
                 <div class="col-lg-12 text-center">
-                   <div class="fb-comments" data-href="https://www.dririnaalexandru.ro/oferte-implant-dentar/" data-numposts="15" data-colorscheme="light" data-order-by="reverse_time"></div>   
+                   <div class="fb-comments" data-href="https://www.dririnaalexandru.ro/oferte/" data-numposts="15" data-colorscheme="light" data-order-by="reverse_time"></div>   
                 </div>
 
         </div>
