@@ -13,9 +13,11 @@ title: Implant dentar pret 250 de euro. Coroana zirconiu 180 euro.
 <!-- Start About -->
 <div id="oabout" class="about">
     <div class="container-fluid">
-        <h2 class="section-title">Oferte</h2>
+        <h2 class="section-title">Oferte Speciale</h2>
         
-        <div class="row">
+        <div class="row text-center">
+            <br/><br/>
+
             <h3>Oferta implant dentar 250 euro</h3>
 
             <div class="col-lg-8 col-lg-offset-2 text-center">
@@ -43,7 +45,9 @@ title: Implant dentar pret 250 de euro. Coroana zirconiu 180 euro.
                  
         </div>
         
-        <div class="row">
+        <div class="row text-center">
+            <br/><br/>
+
             <h3>Oferta coroana zirconiu 150 euro (180 pe implant)</h3>
 
             <div class="col-lg-8 col-lg-offset-2 text-center">
