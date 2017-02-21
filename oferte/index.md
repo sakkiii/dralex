@@ -44,7 +44,9 @@ title: Implant dentar pret 250 de euro. Coroana zirconiu 180 euro.
         </div>
         
         <div class="row">
-            <h2 class="section-title">Oferta coroana zirconiu 150 euro (180 pe implant)</h2>
+            <br/><br/>
+
+            <h2 class="section-title">Oferta coroana zirconiu 180 euro</h2>
 
             <div class="col-lg-8 col-lg-offset-2 text-center">
                 <img class="img-responsive" src="/img/zirconiu-650.jpeg" alt="Coroana zirconiu pe implant">
@@ -52,6 +54,8 @@ title: Implant dentar pret 250 de euro. Coroana zirconiu 180 euro.
         </div>
 
         <div class="row">
+            <br/><br/>
+
             <div class="col-sm-6">
                 
                 <p>Zirconiul devine rapid materialul de preferat pentru coroane dentare. Este un material foarte puternic capabil să reziste la uzura utilizării zilnice. Din punct de vedere estetic, este translucid foarte similar cu un dinte natural și reflectă lumina în același fel.</p>
