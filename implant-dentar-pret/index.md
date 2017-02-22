@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Implant dentar pret 400 euro (include coronita dentara). Consultatie gratuita.
-description: Pretul include bontul protetic si coroana dentara. Fara costuri ascunse, extractiile si consultatia sunt incluse in pret. 
+description: Pretul implantului dentar este pretul total pentru inlocuirea unui dinte, include bontul protetic si coroana dentara. Fara costuri ascunse, extractiile si consultatia sunt incluse in pret. 
 ---
 
 <!-- Start Hero -->
