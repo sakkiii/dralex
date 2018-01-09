@@ -1,18 +1,18 @@
 # Site settings
-title: IQDent | Tratamente dentare inteligente - Cabinet Stomatologic Nerva Traian, Bucuresti.
+title: INODent - ex IQDent | Tratamente dentare inteligente - Cabinet Stomatologic Nerva Traian, Bucuresti.
 description: Implant dentar pret 250 de euro. Oferte implant dentar Dr. Irina Alexandru.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://www.dririnaalexandru.ro # the name of your domain
 logo_url: /favicon.png
 
 
-name: IQDent
+name: INODent
 
 # Hero
 hero: 
     hero_img: hero.jpg
-    hero_title: IQDent
-    hero_description: Tratamente dentare inteligente.
+    hero_title: INODent - ex IQDent
+    hero_description: Tratamente dentare inovative.
 
 # Contact form
 api_token: be4d9d546a4bc4f5fb27cd142eff4336
@@ -45,7 +45,7 @@ instagram: http://instagram.com
 feed: yes
 
 # Footer
-copyright: © 2015 IQDent - All rights reserved
+copyright: © 2015 INODent - All rights reserved
 
 # Build settings
 markdown: kramdown

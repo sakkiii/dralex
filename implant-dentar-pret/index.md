@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Implant dentar pret | Implant dentar pret 400 euro | Cat costa un implant dentar | IQDent
+title: Implant dentar pret | Implant dentar pret 400 euro | Cat costa un implant dentar | INODent - IQDent
 description: Cat costa un implant dentar? La noi preturile de implant dentar sunt accesibile chiar de la 400 euro. Implant dentar pret care contine extractiile si consultatia. Cere acum un pret implant dentar personalizat.
 ---
 
