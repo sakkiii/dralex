@@ -11,7 +11,7 @@ name: INODent
 # Hero
 hero: 
     hero_img: hero.jpg
-    hero_title: INODent - ex IQDent
+    hero_title: INODent
     hero_description: Tratamente dentare inovative.
 
 # Contact form
